@@ -4,13 +4,13 @@ This project applies **K-Means Clustering**, an unsupervised machine learning al
 
 ## Project Objective
 
-The main goal is to segment customers based on the **RFM model**:
+The main goal is to segment customers based on the **RFM model**
 
 - **Recency** – How recently a customer made a purchase  
 - **Frequency** – How often they purchase  
 - **Monetary Value** – How much they spend  
 
-These segments help businesses to:
+These segments help businesses to
 
 - Deliver **personalized promotions**
 - **Increase sales** through targeted offerings
@@ -20,7 +20,7 @@ These segments help businesses to:
 
 ## 📊 Overview of K-Means Clustering
 
-**K-Means** is an iterative algorithm that partitions data into *K* distinct, non-overlapping clusters based on feature similarity. The general steps include:
+**K-Means** is an iterative algorithm that partitions data into *K* distinct, non-overlapping clusters based on feature similarity. The general steps include :
 
 1. Select the number of clusters (**K**)
 2. Initialize **centroids** randomly
@@ -32,7 +32,7 @@ These segments help businesses to:
 
 ## 🧾 Dataset Description
 
-The dataset includes transactional data with the following attributes:
+The dataset includes transactional data with the following attributes
 
 | Column       | Description                                         |
 |--------------|-----------------------------------------------------|
@@ -49,19 +49,18 @@ The dataset includes transactional data with the following attributes:
 
 ## Analysis and Insights
 
-By applying K-Means to the processed RFM features, we identified **distinct customer segments**, such as:
+By applying K-Means to the processed RFM features, we identified **distinct customer segments**, such as :
 
 - **High spenders** with low purchase frequency  
 - **Frequent buyers** with lower spending  
 - **Loyal and consistent** customers  
 
-These clusters help businesses to:
+These clusters help businesses to :
 
 - Target the right customers with the right promotions  
 - Increase ROI through focused marketing efforts  
 - Develop customer-centric strategies that foster loyalty  
 
 ---
-
-
----
+## Additional Resources
+- **Documentation** : [Understanding Customer Behavior with K-Means Clustering](https://medium.com/@4ommyx/understanding-customer-behavior-with-k-means-clustering-e94c952dc5f4)  
